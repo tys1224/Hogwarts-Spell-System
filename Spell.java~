@@ -1,0 +1,5 @@
+package Hogwarts;
+
+public abstract class Spell{
+   
+}

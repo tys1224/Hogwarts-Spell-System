@@ -1,0 +1,12 @@
+package Hogwarts;
+
+public interface SpellInfo{
+     void setName(n);
+     void setType(u);
+     void setDesc(d1);
+     void setPath(d2);
+     String getName();
+     String getType();
+     String getDesc();
+     String getPath();
+}

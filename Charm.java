@@ -1,0 +1,57 @@
+
+
+public class Charm extends Spell {
+    public String type;
+   public String name;
+   public String description = "";
+   public String path;
+     public Charm(String u, String n, String d1, String d2) {
+     setName(n);
+     setType(u);
+     setDesc(d1);
+     setPath(d2);
+     getName();
+     getType();
+     getDesc();
+     getPath();
+}
+   
+      public void setName(String n)
+   {
+     name = n;
+   }
+   
+   public void setType(String u)
+   {
+     type = u;
+   }
+   
+   public void setDesc(String d1)
+   {
+     description = d1;
+   }
+   
+   public void setPath(String d2)
+   {
+     path = d2;
+   }
+    public String getName()
+   {
+     return name;
+   }
+   
+   public String getType()
+   {
+     return type;
+   }
+   
+   public String getDesc()
+   {
+     return description;
+   }
+   
+   public String getPath()
+   {
+     return path;
+   }
+}

@@ -1,0 +1,27 @@
+Charm;Inflatus; A charm that inflated the target, filling it up with air until it floated above  ground.;https://i.imgur.com/YCLOy2V.gif
+Charm;Lumos;Creates a narrow beam of light that shines from the wand's tip, like a torch.;https://i.imgur.com/B4hqpWq.gif
+Charm;Expecto Patronum;This charm is a defensive spell which will conjure a spirit-like incarnation of their positive emotions to defend against dark creatures.it can also send messages to other witches or wizards. It seems one's Patronus will take the form of something important to the caster, and can change when one has undergone a period of heightened emotion.;https://i.imgur.com/FyoWADS.gif
+Charm;Obliviate;Memory Charm, also known as a Forgetfulness Charm, was a spell that could be used to erase memories from an individual's mind.;https://i.imgur.com/TrgeOdK.gif
+Charm;Aguamenti;Conjures a jet of clear, pure water and shoots it from the tip of the caster's wand.;https://i.imgur.com/tXB8XMZ.gif
+Charm;Stupefy;Stuns victim. If used too forcefully, it will put the victim in an unconscious state.;https://i.imgur.com/C2WDosb.gif
+Charm;Incendio;Produces fire. can be used to conjure a jet of orange and red flame. Thereby this spell can be used to set things alight.;https://i.imgur.com/Z8pM1SQ.gif
+Charm;Expelliarmus;Causes whatever the victim is holding to fly away, knocks out an opponent if used too forcefully. Harry Potter's special spell.;https://i.imgur.com/eXddRxY.gif
+Charm;Alohomora;Used to open and unlock door.;https://i.imgur.com/YxfXQHs.gif
+Charm;Ascendio;Lifts the caster high into the air.;https://i.imgur.com/Z48phiI.gif
+Charm;Wingardium Leviosa;Levitates, moves and manipulates the target(similar to telekinesis).The wand motion is described as "swish and flick".;https://i.imgur.com/F7yvjM1.gif
+Charm;Reparo;Used to repair objects.;https://i.imgur.com/FSwUYiG.gif
+Curse;Reducto;Breaks objects. In stronger usages, disintegrates them.;https://i.imgur.com/lewDFEd.gif
+Curse;Avada Kedavra;Causes instant death to the victim wherever it hits on the body, is accompanied by a flash of green light and a rushing noise.There is no known counter-curse, although there are a number of ways to prevent death by it, such as hitting it with another spell in mid-flight, dodging it, or interrupting the caster. It is one of the three Unforgivable Curses.;https://i.imgur.com/8afcy6H.gif
+Curse;Imperio;One of the three "Unforgivable Curses". Places the subject in a dream-like state, in which he or she is utterly subject to the will of the caster. However, those who are strong willed may learn to resist it. The use of this curse on another human results in capital punishment or life sentence in Azkaban.;https://i.imgur.com/Cs4HQWK.gif
+Curse;Crucio;Inflicts intense pain on the recipient of the curse.The pain is described as having hot knives being driven into the victim. It cannot be cast successfully by a person who is doing so out of pure spite or anger.One must feel a true desire to cause the victim pain. If one casts this spell, he or she will receive a life sentence in Azkaban prison for it, as with the other two Unforgivable Curses.;https://i.imgur.com/Ub16fh8.gif
+Curse;Petrificus Totalus;Used to temporarily bind the victim's body in a position much like that of a soldier at attention.The victim will usually fall to the ground.;https://i.imgur.com/NWQEd2p.gif
+Curse;Sectumsempra;A dark spell that creates large, blood-oozing gashes on the subject as if said subject had been "slashed by a sword". Invented by Severus Snape.;https://i.imgur.com/RQJvW3H.gif
+Jinx;Broom Jinx;Was used to make broomsticks try to throw their riders off through a variety of means such as sudden lurches and violent swishing movements. Constant eye contact is required for this spell to be successful.if broken, the spell ceases to work.;https://i.imgur.com/z1Q3W8Y.gif
+Jinx;Levicorpus; Causes the victim to be hoisted into the air by their ankle.;https://i.imgur.com/dAjw49d.gif
+Jinx;Oppugno;Apparently causes animals or beings of lesser intelligence to attack.;https://i.imgur.com/jbls7NQ.gif
+Healing;Brackium Emendo;The incantation of a healing spell that can be used to mend broken bones.;https://i.imgur.com/68lCqrE.gif
+Healing;Episkey;Heals relatively minor injuries such as broken noses and split lips.;https://i.imgur.com/O3roRaw.gif
+Healing;Vulnera Sanentur;Counter-curse to the Sectumsempra Spell, both of which were invented by Professor Severus Snape under his alias of "Half-Blood Prince".;https://i.imgur.com/774y5vV.gif
+Protective;Protego;Create a magical barrier to deflect physical entities and spells, in order to protect a certain person or area.;https://i.imgur.com/WEbfWnA.gif
+Protective;Salvio hexia;Presumably deflected hexes from the area.;https://i.imgur.com/rnd9QNh.gif
+Protective;Riddikulus;A spell used when fighting a Boggart, "Riddikulus" forces the Boggart to take the appearance of an object the caster is focusing on. Best results can be achieved if the caster is focusing on something humorous, with the desire that laughter will weaken the Boggart.;https://i.imgur.com/weFPtVA.gif
